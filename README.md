@@ -1,66 +1,71 @@
-# Hi, I'm Koushik Mukherjee 👋  
+# 👋 Hi, I'm Koushik Mukherjee  
 
-🎓 Undergraduate B.Tech Student at **Dr. B. C. Roy Engineering College**  
-💻 **Full-Stack Developer (MEAN)** | **Version Control Practitioner**  
-🗄️ **SQL & MongoDB Enthusiast** | ⚡ **C++ & JavaScript Programmer**  
-💿 Open Source Contributor  
+💻 **Full-Stack Developer (MEAN/MERN) | Cloud & DevOps Enthusiast | Open Source Contributor**  
 
----
-
-### 🚀 About Me  
-- Passionate about building scalable web applications and solving problems with clean code.  
-- Experienced in **frontend & backend** development.  
-- Love exploring **new technologies** and contributing to open source.  
+<p align="left">
+  <a href="https://github.com/Koushik-Mukherjee"><img src="https://img.shields.io/github/followers/Koushik-Mukherjee?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/koushik-mukherjee-76094b275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-
-#### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-#### 🎨 Frontend  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-#### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-#### 🛠️ Tools & Practices  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=azure-devops&logoColor=white)  
+## 🚀 About Me  
+- 🎓 Final-year **B.Tech in CSE (Design)** at Dr. B. C. Roy Engineering College  
+- 🖥️ Skilled in **Full-Stack Development (React, Angular, Node.js, Spring Boot)**  
+- ☁️ Hands-on with **AWS, Azure, GCP, Docker, CI/CD**  
+- 💡 Strong foundation in **Data Structures, Algorithms & System Design**  
+- 🔎 Passionate about **building scalable apps & solving real-world problems**  
+- 🤝 Open to **collaborations, internships, and open-source contributions**  
 
 ---
 
-### 📌 Current Focus  
-- Enhancing skills in **MEAN Stack**  
-- Working on **open-source contributions**  
-- Building personal projects to strengthen problem-solving  
+## 🛠️ Tech Stack  
+
+### 🚀 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,php" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github" />
+</p>
 
 ---
 
-### 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/koushikmukherjee)  
-- [GitHub](https://github.com/your-username)  
-- [Portfolio](https://your-portfolio-link.com)  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koushik-Mukherjee&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Mukherjee&layout=compact&theme=tokyonight" height="170px"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+## 📂 Featured Projects  
+- 📝 [Buddy Board](#) → Full-stack study card web app with real-time interaction.  
+- 🛒 [E-Commerce Website](#) → Robust platform with secure payments & product search.  
+- 💹 [Telemetry Dashboard](#) → Factory monitoring system with 36+ machine tracking.  
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*  
+## 📫 Connect with Me  
+<p>
+  <a href="mailto:koushik.20.01.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/koushik-mukherjee-76094b275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Koushik-Mukherjee"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐️ From [Koushik Mukherjee](https://github.com/Koushik-Mukherjee)  
