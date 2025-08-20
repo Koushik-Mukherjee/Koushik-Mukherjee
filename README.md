@@ -64,10 +64,17 @@
 
 ---
 
-## 🚀 Featured Projects  
-- 📝 [Buddy Board](#) → Full-stack study card app with **real-time collaboration**  
-- 🛒 [E-Commerce Platform](#) → Robust store with **secure payments**  
-- 📊 [Telemetry Dashboard](#) → Factory monitoring with **36+ machines tracked live**  
+## 🎧 Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Koushik-Mukherjee/Koushik-Mukherjee/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
