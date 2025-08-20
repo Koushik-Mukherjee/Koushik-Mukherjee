@@ -31,14 +31,26 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend & Databases  
+### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs" />
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
 ### ☁️ Cloud & DevOps  
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,vercel,netlify" />
+</p>
+
+### 🛠️ Tools & Testing  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kafka,maven,jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="cypress" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
