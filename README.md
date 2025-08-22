@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Passionate+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -55,24 +60,38 @@
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koushik-Mukherjee&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Mukherjee&layout=compact&theme=radical" height="165"/>
-</p>
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Koushik-Mukherjee&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Koushik-Mukherjee&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
+### ⚡ GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Koushik-Mukherjee&show_icons=true&theme=radical" height="165" />
+
+### 🌐 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Mukherjee&layout=compact&theme=radical" height="165" />
+
+---
+
+### 🔥 Contribution Streak  
+<img src="https://streak-stats.demolab.com?user=Koushik-Mukherjee&theme=radical" alt="GitHub Streak" />
+
+---
+
+### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=Koushik-Mukherjee&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-Mukherjee&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -90,4 +109,4 @@
   <img src="https://komarev.com/ghpvc/?username=Koushik-Mukherjee&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-⭐️ From [Koushik-Mukherjee](https://github.com/Koushik-Mukherjee)  
+⭐️ From [Koushik-Mukherjee](https://github.com/Koushik-Mukherjee)
