@@ -15,12 +15,20 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year **B.Tech (CSE-Design)** @ Dr. B. C. Roy Engineering College  
-- 💻 Building **scalable web apps** with **MERN, MEAN & Spring Boot**  
-- ☁️ Skilled in **AWS | Azure | GCP | Docker | CI/CD Pipelines**  
-- 📈 Strong in **DSA, System Design & Problem Solving**  
-- 🎯 Goal: Build impactful tech that solves **real-world problems**  
-- 🤝 Open to **Internships | Freelance | Open Source Collaboration**  
+
+Hi, I'm **Koushik Mukherjee** — a final-year **B.Tech (CSE – Design)** student at **Dr. B. C. Roy Engineering College**.  
+I enjoy building **scalable Web & Android applications** and exploring **AI/ML with on-device intelligence**.
+
+- 🎓 Final-year **B.Tech (CSE – Design)**
+- 💻 Building scalable apps with **MERN / MEAN / Spring Boot**
+- 📱 Android: **Android SDK, IME, WorkManager, OkHttp, Material UI**
+- 🤖 AI/ML: **TensorFlow Lite, Federated Learning (Flower, FedAvg), NumPy**
+- ⚙️ Strong in **DSA, SDLC, System Design, Distributed Systems, Automation, Design Patterns**
+- ☁️ Cloud & DevOps: **AWS | Azure | GCP | Docker | CI/CD | Vercel | Netlify**
+- 🛠️ Tools: **Linux/Unix, Kafka, Maven, Jest, Cypress, Android Studio, VS Code**
+- 🎯 Goal: Build impactful products that solve **real-world problems**
+- 🤝 Open to **Internships | Freelance | Open Source Collaboration**
+
 
 ---
 
