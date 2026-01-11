@@ -49,11 +49,6 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs" />
 </p>
 
-### 📱 Mobile / Android Development    
-<p>
-  <img src="https://skillicons.dev/icons?i=android,react" />
-</p>
-
 ### 🗄️ Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
