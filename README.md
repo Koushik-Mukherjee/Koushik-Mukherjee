@@ -56,7 +56,7 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
 
 ### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 </p>
 
 ### 🤖 Machine Learning / AI  
