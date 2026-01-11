@@ -49,9 +49,19 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs" />
 </p>
 
+### 📱 Mobile / Android Development    
+<p>
+  <img src="https://skillicons.dev/icons?i=android,react" />
+</p>
+
 ### 🗄️ Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+</p>
+
+### 🤖 Machine Learning / AI  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
 ### ☁️ Cloud & DevOps  
@@ -61,7 +71,7 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
 
 ### 🛠️ Tools & Testing  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kafka,maven,jest" />
+  <img src="https://skillicons.dev/icons?i=linux,kafka,maven,jest,vscode,androidstudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="cypress" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
