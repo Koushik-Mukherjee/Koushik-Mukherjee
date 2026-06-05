@@ -73,41 +73,6 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
 
 ---
 
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-### ⚡ GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Koushik-Mukherjee&show_icons=true&theme=radical" height="165" />
-
-### 🌐 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Mukherjee&layout=compact&theme=radical" height="165" />
-
----
-
-### 🔥 Contribution Streak  
-<img src="https://streak-stats.demolab.com?user=Koushik-Mukherjee&theme=radical" alt="GitHub Streak" />
-
----
-
-### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=Koushik-Mukherjee&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-Mukherjee&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
-</picture>
-
----
-
 ## 📬 Connect with Me  
 
 <p align="center">
