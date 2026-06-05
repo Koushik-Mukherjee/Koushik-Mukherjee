@@ -29,6 +29,21 @@ I enjoy building **scalable Web & Android applications** and exploring **AI/ML w
 - 🎯 Goal: Build impactful products that solve **real-world problems**
 - 🤝 Open to **Internships | Freelance | Open Source Collaboration**
 
+---
+
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koushik-Mukherjee&theme=github_dark" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-Mukherjee&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
